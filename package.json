@@ -1,0 +1,23 @@
+{
+  "name": "cicdsandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pascalalfadian/cicdsandbox.git"
+  },
+  "author": "Pascal Alfadian Nugroho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pascalalfadian/cicdsandbox/issues"
+  },
+  "homepage": "https://github.com/pascalalfadian/cicdsandbox#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
